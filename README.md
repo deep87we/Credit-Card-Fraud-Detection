@@ -12,7 +12,7 @@ It contains only numerical input variables which are the result of a PCA transfo
 1. Isolation Forest Algorithm 
 2. Local Outlier Factor(LOF) Algorithm
 # Results
-1. Isolation forest detected 71 frauds , while Local Outlier detection detected 97 frauds.
+1. Isolation forest detected 71 erros , while Local Outlier detection detected 97 errors.
 2. Isolation forest has accuracy of 99.75%, while Local Outlier detection has accuracy of 99.65%.
 3. Overall Isolation forest performed much better if we take the precison scores also into the account.
 
